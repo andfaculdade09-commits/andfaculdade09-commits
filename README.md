@@ -1,16 +1,23 @@
-## Hi there 👋
+# Sobre mim
 
-<!--
-**andfaculdade09-commits/andfaculdade09-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é André Lucas Martins Pereira. Sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPA - Campus Paragominas. Tenho interesse na área de tecnologia e estou buscando desenvolver cada vez mais meus conhecimentos em programação e análise de dados.
 
-Here are some ideas to get you started:
+## Habilidades e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Algoritmos e Lógica de Programação
+- Excel
+- GitHub
+- Markdown
+- Noções de desenvolvimento de projetos
+
+## Projetos do Curso
+
+Nesta seção serão adicionados, ao longo da formação, os projetos e atividades práticas desenvolvidos no curso de TADS.
+
+- Projetos e atividades acadêmicas
+- Exercícios e trabalhos práticos
+- Futuros projetos em Python
+
+## Contato
+
+- GitHub: @andfaculdade09-commits
