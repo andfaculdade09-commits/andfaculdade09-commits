@@ -7,7 +7,6 @@ Olá! Meu nome é André Lucas Martins Pereira. Sou estudante de Tecnologia em A
 - Algoritmos e Lógica de Programação
 - Excel
 - GitHub
-- Markdown
 - Noções de desenvolvimento de projetos
 
 ## Projetos do Curso
